@@ -1,0 +1,70 @@
+{
+    "ContactInformation": {
+        "Name": "First Last",
+        "Email": "first.last@selu.edu",
+        "Phone Number": "555-555-5555",
+        "Website/Portfolio": "issuu.com/eengineersample"
+    },
+    "Education": {
+        "Institution Name": "Southeastern Louisiana University",
+        "Degree": "Bachelor of Science in Engineering Technology",
+        "Field of Study": "Electrical Energy Engineering",
+        "Graduation Year": "2024"
+    },
+    "WorkExperience": [
+        {
+            "Job Title": "Environmental Engineer Intern",
+            "Company Name": "American Pollution Control Corp.",
+            "Location": "Chalmette, LA",
+            "Dates of Employment": "June 2023 - August 2023",
+            "Responsibilities/Projects": [
+                "Inspected sites and performed detailed monitoring of industrial pollution control measures with an environmental engineer based on state and local regulations",
+                "Served on a committee dedicated to designing and implementing a new wastewater treatment system",
+                "Investigated environmental projects onsite with a team of 3 engineers"
+            ]
+        },
+        {
+            "Job Title": "Engineer Intern",
+            "Company Name": "Cargill",
+            "Location": "Breaux Bridge, LA",
+            "Dates of Employment": "May 2022 - August 2022",
+            "Responsibilities/Projects": [
+                "Research building code items, materials, and similar building plans for 2 large commercial projects in New Orleans",
+                "Reviewed building plans with engineering and design teams to evaluate for ADA compliance",
+                "Collaborated with a team of 7 to research and identify suitable locations to install groundwater dams"
+            ]
+        }
+    ],
+    "Projects": [
+        {
+            "Project Title": "Group Project, Senior Design Course",
+            "Description/Technologies Used": "",
+            "Outcomes/Results": ""
+        },
+        {
+            "Project Title": "LEED project with a VRF system",
+            "Description/Technologies Used": "EnergyPro (LEED)",
+            "Outcomes/Results": ""
+        }
+    ],
+    "Skills": {
+        "Programming Languages": [
+            "ALGORITHM"
+        ],
+        "Tools/Technologies": [
+            "AutoCAD",
+            "AutoCAD LT",
+            "eQUEST",
+            "EnergyPro"
+        ]
+    },
+    "AdditionalInformation": {
+        "Certifications": "",
+        "Awards or Honors": "",
+        "Professional Affiliations": [
+            "The National Association of Environmental Professionals",
+            "Louisiana Association of Environmental Professionals (LAEP)"
+        ],
+        "Languages": ""
+    }
+}

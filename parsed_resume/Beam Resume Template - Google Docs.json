@@ -1,0 +1,69 @@
+{
+    "ContactInformation": {
+        "Name": "RHODA JACKSON",
+        "Email": "rhodajackson@email.com",
+        "Phone Number": "(123) 456-7890",
+        "Website/Portfolio": "Linkedin"
+    },
+    "Education": {
+        "Institution Name": "University of Chicago",
+        "Degree": "B.F.A.",
+        "Field of Study": "Visual Arts",
+        "Graduation Year": "2020"
+    },
+    "WorkExperience": [
+        {
+            "Job Title": "Graphic Designer",
+            "Company Name": "Mozilla",
+            "Location": "Denver, CO",
+            "Dates of Employment": "2023 - current",
+            "Responsibilities/Projects": [
+                "Designed marketing video assets improving ad performance by 19%",
+                "Created graphic design standards for motion graphic assets improving brand consistency for 6 teams"
+            ]
+        },
+        {
+            "Job Title": "Junior Graphic Designer",
+            "Company Name": "Carta Healthcare",
+            "Location": "Austin, TX",
+            "Dates of Employment": "2021 - 2023",
+            "Responsibilities/Projects": [
+                "Collaborated with Marketing, PR, and Social Media teams to design graphics boosting social engagement by 32%",
+                "Developed original graphics for a public health campaign reaching over 80,664 community members"
+            ]
+        },
+        {
+            "Job Title": "Graphic Design Intern",
+            "Company Name": "Emanate",
+            "Location": "San Francisco, CA",
+            "Dates of Employment": "2020 - 2021",
+            "Responsibilities/Projects": [
+                "Built concepts and designs for 17 clients using Adobe Photoshop and Illustrator",
+                "Fashioned design elements for PowerPoint presentations given by the CEO to shareholders"
+            ]
+        }
+    ],
+    "Skills": {
+        "Programming Languages": [],
+        "Tools/Technologies": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe After Effects",
+            "Adobe InDesign",
+            "Adobe Premiere Pro",
+            "Facebook",
+            "Instagram",
+            "TikTok",
+            "HTML",
+            "CSS",
+            "Microsoft Word",
+            "PowerPoint"
+        ]
+    },
+    "AdditionalInformation": {
+        "Certifications": [],
+        "Awards or Honors": [],
+        "Professional Affiliations": [],
+        "Languages": []
+    }
+}

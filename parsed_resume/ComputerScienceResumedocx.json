@@ -1,0 +1,84 @@
+{
+    "contactInformation": {
+        "name": "YOUR NAME",
+        "email": "yourname@gmail.com \u2013 Hammond, LA \u2013 github.com/yourname \u2013 linkedin.com/yourname",
+        "phoneNumber": "123-456-7890",
+        "website/Portfolio": "github.com/yourname"
+    },
+    "education": {
+        "institutionName": "Southeastern Louisiana University (SLU)",
+        "degree": "Bachelor of Science in Computer Science",
+        "fieldOfStudy": "",
+        "graduationYear": "2021"
+    },
+    "workExperience": [
+        {
+            "jobTitle": "Blog Writer",
+            "companyName": "Hammond, LA",
+            "location": "SLU Computer Science Department",
+            "datesOfEmployment": "August 2020 \u2013 Present",
+            "responsibilities/projects": [
+                "Designed a student portal website that allows access to blogs, research articles, and inter-office communication"
+            ]
+        },
+        {
+            "jobTitle": "Unix Administrator Assistant",
+            "companyName": "Financial Network Services, Pty Ltd.",
+            "location": "Sydney, Australia",
+            "datesOfEmployment": "June 2019 \u2013 August 2019",
+            "responsibilities/projects": [
+                "Operated Unix Hp/Ux 11i in the transferring of files between development and testing regions"
+            ]
+        },
+        {
+            "jobTitle": "Web Programming Class",
+            "companyName": "Tangi Humane Society",
+            "location": "Hammond, LA",
+            "datesOfEmployment": "January 2020 \u2013 June 2020",
+            "responsibilities/projects": [
+                "Served as a project team leader and developed a database to track the adoption of animals proficiently"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "projectTitle": "Student Portal Website",
+            "descriptionTechnologiesUsed": "Visual Basic, SQL, C, C++, Java",
+            "outcomesResults": ""
+        },
+        {
+            "projectTitle": "",
+            "descriptionTechnologiesUsed": "",
+            "outcomesResults": ""
+        }
+    ],
+    "skills": [
+        {
+            "programmingLanguages": [
+                "Visual Basic",
+                "SQL",
+                "C",
+                "C++",
+                "Java"
+            ]
+        },
+        {
+            "toolsTechnologies": [
+                "SQL Server",
+                "Microsoft (MS) Access",
+                "Oracle"
+            ]
+        }
+    ],
+    "additionalInformation": {
+        "certifications": [],
+        "awardsOrHonors": [
+            "Dean\u2019s List",
+            "Presidential Scholar"
+        ],
+        "professionalAffiliations": [
+            "Women in Technology"
+        ],
+        "languages": []
+    }
+}

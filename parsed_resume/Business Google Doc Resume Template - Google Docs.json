@@ -1,0 +1,134 @@
+{
+    "ContactInformation": {
+        "Name": "Alex Reed",
+        "Email": "alex.reed@email.com",
+        "Phone Number": "(123) 456-7890"
+    },
+    "Education": [
+        {
+            "Institution Name": "Wisconsin School of Business",
+            "Degree": "M.S.",
+            "Field of Study": "Business Analytics",
+            "Graduation Year": "2015"
+        },
+        {
+            "Institution Name": "Lawrence University",
+            "Degree": "B.S.",
+            "Field of Study": "Economics",
+            "Graduation Year": "2013"
+        }
+    ],
+    "WorkExperience": [
+        {
+            "Job Title": "Business Development Manager",
+            "Company Name": "Exact Sciences",
+            "Location": "Madison, WI",
+            "Dates of Employment": "January 2020 - Current",
+            "Responsibilities/Projects": [
+                {
+                    "Description": "Led the development of 8 new diagnostic products, increasing market share by 5.4%.",
+                    "Outcomes": "Increased market share by 5.4%",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Introduced a feedback loop for product iterations, boosting user satisfaction by 12%.",
+                    "Outcomes": "Boosted user satisfaction by 12%",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Closed a deal worth $3.9M+, securing long-term revenue source.",
+                    "Outcomes": "",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Managed marketing specialists, growing yearly revenue by 6.1%.",
+                    "Outcomes": "Grew yearly revenue by 6.1%",
+                    "Technologies Used": []
+                }
+            ]
+        },
+        {
+            "Job Title": "Business Development Associate",
+            "Company Name": "Spectrum Brands",
+            "Location": "Madison, WI",
+            "Dates of Employment": "May 2017 - December 2019",
+            "Responsibilities/Projects": [
+                {
+                    "Description": "Negotiated contracts with retailers, leading to a 16% brand visibility uptick in multiple markets.",
+                    "Outcomes": "16% increase in brand visibility"
+                },
+                {
+                    "Description": "Brought 24% more annual leads through targeted online advertising.",
+                    "Outcomes": "",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Reviewed sales data to work on pricing strategy, raising profit margins by 6.7%.",
+                    "Outcomes": "Raised profit margins by 6.7%",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Ideated marketing campaign that penetrated new regional markets.",
+                    "Outcomes": ""
+                }
+            ]
+        },
+        {
+            "Job Title": "Market Research Assistant",
+            "Company Name": "Navitus Health Solutions",
+            "Location": "Madison, WI",
+            "Dates of Employment": "November 2015 - February 2017",
+            "Responsibilities/Projects": [
+                {
+                    "Description": "Mapped competitive landscape, identifying industry shifts.",
+                    "Outcomes": "",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Collected survey data from patients, contributing to company's knowledge base.",
+                    "Outcomes": "",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Analyzed pharmacy claims, identifying potential fraud cases.",
+                    "Outcomes": "",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Used forecasting models to predict patient benefits coverage with 88% accuracy.",
+                    "Outcomes": "Predicted treatment with 88% accuracy",
+                    "Technologies Used": []
+                }
+            ]
+        },
+        {
+            "Job Title": "Business Development Intern",
+            "Company Name": "Promega",
+            "Location": "Madison, WI",
+            "Dates of Employment": "April 2015 - October 2015",
+            "Responsibilities/Projects": [
+                {
+                    "Description": "Developed sales forecasting model with 97% accuracy.",
+                    "Outcomes": "",
+                    "Technologies Used": []
+                },
+                {
+                    "Description": "Ideated marketing campaign that penetrated new regional markets.",
+                    "Outcomes": ""
+                }
+            ]
+        }
+    ],
+    "Skills": [
+        {
+            "Programming Languages": [],
+            "Tools/Technologies": []
+        }
+    ],
+    "AdditionalInformation": {
+        "Certifications": [],
+        "Awards or Honors": [],
+        "Professional Affiliations": [],
+        "Languages": []
+    }
+}

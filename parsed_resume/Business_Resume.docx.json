@@ -1,0 +1,79 @@
+{
+    "contactInformation": {
+        "Name": "first.last",
+        "Email": "first.last@selu.edu",
+        "Phone Number": "985-111-1111",
+        "Websites/Portfolios": ""
+    },
+    "education": [
+        {
+            "Institution Name": "Southeastern Louisiana University",
+            "Degree": "Bachelor of Arts in Marketing; Spanish minor",
+            "Field of Study": "",
+            "Graduation Year": "2021"
+        }
+    ],
+    "workExperience": [
+        {
+            "Job Title": "Marketing Intern",
+            "Company Name": "Louisiana Department of Labor",
+            "Location": "Baton Rouge, LA",
+            "Dates of Employment": "May 2021 \u2013 July 2021",
+            "Responsibilities/Projects": [
+                "Screened 40+ applicants for open positions daily, paying attention to detail and clearly communicating job requirements to potential candidates",
+                "Retrieved unemployment claims, collected confidential customer information, and conducted daily log entries diligently"
+            ]
+        },
+        {
+            "Job Title": "Chairman of Advertising/Public Relations",
+            "Company Name": "American Red Cross, Fundraising Committee",
+            "Location": "Baton Rouge, LA",
+            "Dates of Employment": "January 2020 \u2013 May 2020",
+            "Responsibilities/Projects": [
+                "Coordinated and supervised a 6-member committee and maximized committee potential by delegating to members\u2019 strengths",
+                "Provided personal outreach to various media outlets which led to first-time coverage from 4 outlets",
+                "Wrote press releases and secured media publicity through radio, paper, and internet sources, positively representing the brand"
+            ]
+        },
+        {
+            "Job Title": "Server",
+            "Company Name": "Olive Garden",
+            "Location": "Hammond, LA",
+            "Dates of Employment": "August 2019 \u2013 Present",
+            "Responsibilities/Projects": [
+                "Provided excellent customer service to 50+ patrons per shift in a fast-paced, time-intense environment",
+                "Demonstrated keen attention to detail by managing financial transactions totaling up to $2,000"
+            ]
+        },
+        {
+            "Job Title": "Assistant Store Manager",
+            "Company Name": "The Body Shop",
+            "Location": "Baton Rouge, LA",
+            "Dates of Employment": "August 2018 \u2013 December 2019",
+            "Responsibilities/Projects": [
+                "Exceeded $2,500 weekly sales quota by 10% and targeted customer behavior to increase sales",
+                "Handled amounts exceeding $5,000 daily while maintaining accurate balances and deposits"
+            ]
+        }
+    ],
+    "projects": [],
+    "skills": {
+        "Programming Languages": "",
+        "Tools/Technologies": "Bloomberg Terminal, Microsoft Office Suite"
+    },
+    "additionalInformation": {
+        "Certifications": "",
+        "Awards or Honors": [
+            "Taylor Opportunity Program for Students Scholarship Recipient",
+            "President\u2019s List (3 semesters)",
+            "Dean\u2019s List (3 semesters)"
+        ],
+        "Professional Affiliations": [
+            "Southeastern Marketing Association"
+        ],
+        "Languages": {
+            "Conversational": "Spanish",
+            "Written": "Spanish"
+        }
+    }
+}
